@@ -27,8 +27,11 @@ htmlcov/
 # Editor
 .DS_Store
 .idea/
-.vscode/
 *.swp
 
 # Kiro local settings (machine-specific MCP config)
 .kiro/settings/mcp.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
